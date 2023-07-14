@@ -2,9 +2,7 @@
 
 ---
 
-![banner.png](./docs/img/banner.png)
-
-Let's create a front-end React Component that exchanges the contents of a 3rd party Web Database service using Express as a proxy.
+A front-end React Component that exchanges the contents of a 3rd party Web Database service using Express as a proxy.
 
 ## Outline <!-- omit in toc -->
 * [Completed Project](#completed-project)
